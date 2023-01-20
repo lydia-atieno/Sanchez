@@ -12,7 +12,7 @@
 
 }
 html{
-    background-color: #0081B4;
+    background-color: #F1A661;
 }
 .container{
     align-items: center;
@@ -23,4 +23,8 @@ html{
 #body .body{
     flex-direction: column;
     margin-top: 50px;
+}
+#body h1{
+    font-size: 2rem;
+    margin-bottom: 15px;
 }
